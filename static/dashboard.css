@@ -1,0 +1,31 @@
+.dashboard{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1vmin;
+    justify-content: center;
+    height: 90vh;
+    padding: 35vmin;
+  }
+  nav{
+    width: 100%;
+  }
+  a{
+    font-size: 1.2em;
+  }
+  p{
+    font-size: 1.3em;
+  }
+  #navlog {
+    color: black;
+    font-size: 1.1em;
+    text-decoration: none;
+    padding: 0em 1em 0em 1em;
+  }
+  #member{
+    width: 130px;
+    margin: auto;
+  }
+.modal-body p{
+  font-size: 1em;
+}
